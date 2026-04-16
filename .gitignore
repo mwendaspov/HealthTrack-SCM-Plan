@@ -1,0 +1,12 @@
+# Ignore compiled binaries (OUT OF SCOPE)
+*.class
+*.dll
+*.exe
+
+#ignore sensitive environment configs (SECURITY)
+.env
+config.js
+
+3ignore IDE settings (PERSONAL SCOPE)
+.vscode/
+.idea/
