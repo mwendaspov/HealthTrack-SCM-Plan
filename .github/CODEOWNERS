@@ -1,0 +1,8 @@
+# The Tech Lead owns the SM Plan itself
+README.md     mwendaspov
+
+# The Database Team owns all SQL files
+*.sql         mwendaspov
+
+# The Frontend Team owns all Javascript
+*.js          mwendaspov
